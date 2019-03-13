@@ -69,9 +69,7 @@ if($hg->is_error() == false){
 						<?php endif; ?>
 					</p>
 				</div>
-				<div class="card-footer">
-					<small class="text-muted">Last updated 3 mins ago</small>
-				</div>
+				
 			</div>
 
 			<div class="card" style="border-radius: 12px; box-shadow: 5px 5px 5px rgba(0,0,0,0.5);">
@@ -84,9 +82,7 @@ if($hg->is_error() == false){
 						EUR:<span class="badge badge-danger">Serviço Indisponivel</span>
 						<?php endif; ?></p>
 					</div>
-					<div class="card-footer">
-						<small class="text-muted">Last updated 3 mins ago</small>
-					</div>
+					
 				</div>
 
 				<div class="card" style="border-radius: 12px; box-shadow: 5px 5px 5px rgba(0,0,0,0.5);">
@@ -101,9 +97,7 @@ if($hg->is_error() == false){
 								<?php endif; ?>
 							</p>
 						</div>
-						<div class="card-footer">
-							<small class="text-muted">Last updated 3 mins ago</small>
-						</div>
+						
 					</div>
 				</div>
 
