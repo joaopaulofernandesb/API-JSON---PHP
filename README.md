@@ -1,3 +1,3 @@
 # API-JSON---PHP
 
-Consultanodo Cotação deu uma API da HGT Brasil
+Cotação de Moedas Utilizando API da HGB Brasil <https://hgbrasil.com>
